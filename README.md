@@ -21,7 +21,7 @@ This dataset has been made using the popular PlantVillage and PlantDoc datasets.
 
 ##
 #Best Test Score
-<img src="https://github.com/Putra-Prassiesa-Abimanyu/Project-Web/blob/main/public/assets/img/preview/Screenshot%20(4).png" width="100%">
+<img src="https://github.com/ppabimanyu/Tugas---CNN/blob/master/src/img.png" width="50%">
 ##
 <img src="https://image-cdn.medkomtek.com/JdHyIYkqeOsqyZCFtHTfwf627mQ=/1200x675/smart/klikdokter-media-buckets/medias/2309755/original/025168400_1575468129-Hubungan-antara-Alergi-Jagung-dan-Peningkatan-Sel-Darah-Putih-by-Shvadchak-Vasyl-123rf-31536616_s.jpg" width="100%">
 
