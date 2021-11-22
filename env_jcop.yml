@@ -1,0 +1,40 @@
+name: jcop
+
+channels:
+- conda-forge
+- anaconda
+- pytorch
+
+dependencies:
+# Essential
+- python
+- tqdm
+- nb_conda_kernels
+- pip
+- ipython
+# Data Science
+- numpy
+- scipy
+- pandas
+# Machine Learning
+- scikit-learn
+# Visualization
+- matplotlib
+- seaborn
+- ipywidgets
+# NLP
+- nltk
+- torchtext
+# Deep Learning
+- pytorch
+# Computer Vision
+- torchvision
+- pillow
+
+# Machine Learning
+- pip:
+  - xgboost==1.5.0
+  - scikit-optimize==0.9.0
+  - jcopml==1.1.14
+  - jcopdl==1.1.9
+  - luwiji==1.1.8
